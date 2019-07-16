@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture" "vgui/entities/npc_gunship_helicopter"
+	"$nolod" 1
+	"$vertexalpha" 1
+	"$vertexcolor" 1
+}

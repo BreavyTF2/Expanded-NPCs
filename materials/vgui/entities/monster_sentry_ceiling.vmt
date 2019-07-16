@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture" "vgui/entities/monster_sentry_ceiling"
+	"$nolod" 1
+	"$vertexalpha" 1
+	"$vertexcolor" 1
+}

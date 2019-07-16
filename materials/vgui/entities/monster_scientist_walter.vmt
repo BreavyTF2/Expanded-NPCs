@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture" "vgui/entities/monster_scientist_walter"
+	"$nolod" 1
+	"$vertexalpha" 1
+	"$vertexcolor" 1
+}
