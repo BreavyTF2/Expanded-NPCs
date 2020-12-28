@@ -1,8 +1,8 @@
 {
-	"title": "More NPCs",
-	"type": "npc",
+	"title": "Expanded NPCs",
+	"type": "entity",
 	"tags": [
-		"fun",
-		"movie"
+		"roleplay",
+		"realism"
 	]
 }

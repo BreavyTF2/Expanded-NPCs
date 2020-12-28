@@ -1,7 +1,0 @@
-"UnlitGeneric"
-{
-	"$basetexture" "vgui/entities/hornet"
-	"$nolod" 1
-	"$vertexalpha" 1
-	"$vertexcolor" 1
-}
